@@ -1,0 +1,7 @@
+{
+  "name": "WikiBot - Assistant Wikipédia",
+  "description": "Assistant de recherche Wikipédia interactif avec conservation de l'historique, mode sombre et design moderne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
